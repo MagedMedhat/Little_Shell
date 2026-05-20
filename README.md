@@ -1,6 +1,6 @@
 # LSH — Libstephen Shell (Modified Fork)
 
-> This project is based on [Stephen Brennan's LSH](http://brennan.io/2015/01/16/write-a-shell-in-c/) — a simple shell implementation in C written as a tutorial to demonstrate the basics of how a shell works.
+> This project is based on [Stephen Brennan's LSH](https://github.com/brenns10/lsh/tree/407938170e8b40d231781576e05282a41634848c) — a simple shell implementation in C written as a tutorial to demonstrate the basics of how a shell works.
 > I cloned the original code, studied it, and extended it by implementing four new built-in commands from scratch.
 
 ---
